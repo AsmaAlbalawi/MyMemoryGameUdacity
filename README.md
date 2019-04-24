@@ -1,18 +1,20 @@
-# MyMemoryGameUdacity
-CREATING A MEMORY GAME BY USING JAVASCRIPT
+# Memory Game Project
 
-# about the memory card.
-Memory has long been a favorite game for all generations. 
-It requires observation, concentration and a good memory to win. 
+## Table of Contents
 
-# how to play
-the game has 16 cards with different images.each card has 2 pairs.the player needs to match each card with its pair.
+* [Instructions](#instructions)
+* [Contributing](#contributing)
 
-# codes style and framework:
- HTML CSS JavaScript
- #helpfull resources:
- udacity.com w3school.com - getbootstrap.com 
- 
- # Need help: 
- you can contact me through e-mail: 
-sma_ez@hotmail.com
+## Instructions
+
+The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+
+To get started, open `js/app.js` and start building out the app's functionality
+
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+## Contributing
+
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
